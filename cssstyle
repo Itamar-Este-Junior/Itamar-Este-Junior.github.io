@@ -1,4 +1,0 @@
-<center>
-    <img src="{% static 'Loja 389.jpg' %}">
-</center>
-    <img src="{% static 'GLESP.PNG' %}">
