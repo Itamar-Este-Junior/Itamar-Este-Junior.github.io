@@ -4,6 +4,29 @@ body {
   background-repeat: no-repeat;
 }
 
+.centralizar {
+  text-align: center;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+.xpto{
+  color: purple;
+  /* font-size: 150px; */
+}
+
+.largura {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .logo {
   width: 70%;
 }
