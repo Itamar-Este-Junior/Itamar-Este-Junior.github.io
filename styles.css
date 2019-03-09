@@ -8,8 +8,8 @@ body {
   text-align: center;
 }
 
-.green {
-  color: green;
+.blue {
+  color: blue;
 }
 
 .red {
@@ -28,5 +28,11 @@ body {
 }
 
 .logo {
-  width: 70%;
+  width: 40%;
+}
+.logo2 {
+  width: 15%;
+}
+.fonte{
+  font-size: 50px;
 }
