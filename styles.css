@@ -1,7 +1,8 @@
 body {
   background-color : #F5DEB3;
-  /* background-image: url('images/logo.jpg'); */
-  background-repeat: no-repeat;
+  background-image: url('images/logo.jpg');
+   background-repeat: no-repeat;
+   background-size: 100%;
 }
 
 .centralizar {
@@ -30,13 +31,6 @@ body {
 .logo {
   width: 40% 
    }
-
-.login-page
-{
-  background-image:url('logo.jpg');
-  background-repeat: no-repeat;
-  background-size: 100%
-}
 
 .logo2 {
   width: 15%;
