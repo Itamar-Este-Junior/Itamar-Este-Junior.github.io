@@ -1,8 +1,8 @@
 body {
   background-color : #F5DEB3;
   background-image: url('images/logo.jpg');
-   background-repeat: no-repeat;
-   background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .centralizar {
