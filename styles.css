@@ -28,8 +28,16 @@ body {
 }
 
 .logo {
-  width: 40%;
+  width: 40% 
+   }
+
+.login-page
+{
+  background-image:url('logo.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%
 }
+
 .logo2 {
   width: 15%;
 }
