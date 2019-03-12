@@ -1,7 +1,7 @@
 body {
   background-color : #F5DEB3;
   background-image: url('images/logo.jpg');
-  background-size: 100%
+  background-size: 100%;
   }
 
 .centralizar {
@@ -32,6 +32,9 @@ body {
    }
 
 .logo2 {
+  position: relative;
+  left: 100%;
+  margin-left: -257;
   width: 15%;
 }
 .fonte{
