@@ -8,8 +8,8 @@ body {
   text-align: center;
 }
 
-.blue {
-  color: blue;
+.darkgrey {
+  color: darkgrey;
 }
 
 .black {
@@ -34,5 +34,5 @@ body {
  width: 15%;
 }
 .fonte{
-  font-size: 50px;
+  font-size: 70px;
 }
