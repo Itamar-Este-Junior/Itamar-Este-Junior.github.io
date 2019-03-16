@@ -1,3 +1,10 @@
 body {
     background-color: aqua;
 }
+.photojpg {
+width:162x; 
+  height:161px; 
+  float: right;
+  margin-top: 0px;
+  margin-right: 0px;
+}

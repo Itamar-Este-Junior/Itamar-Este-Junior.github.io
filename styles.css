@@ -30,9 +30,9 @@ body {
 .logo2 {
   width:162x; 
   height:161px; 
-  float: left;
+  float: right;
   margin-top: 0px;
-  margin-left: 0px;
+  margin-right: 0px;
 }
 .fonte{
   font-size: 70px;
