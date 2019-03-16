@@ -3,10 +3,6 @@ body {
     background-image: url('images/photo.jpg');
     background-size: 100%;
     }
-.photojpg {
-  widows: 25%; 
-  height:25%; 
-  float: right;
-  margin-top: 0%;
-  margin-right:0%;
-}
+.participantesleft {
+ text-align: left
+} 
