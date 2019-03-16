@@ -9,8 +9,8 @@ body {
 }
 
 .darkgrey {
-  color: darkgrey;
-}
+  color: black;
+  }
 
 .black {
   color: black;
@@ -22,16 +22,17 @@ body {
 }
 
 .largura {
-  width: 100%;
+  width: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .logo2 {
- position: fixed;
- top: 50%;
- right: 0;
- width: 15%;
+  width:262px; 
+  height:261px; 
+  float: right;
+  margin-top: 0px;
+  margin-right: 0px;
 }
 .fonte{
   font-size: 70px;
