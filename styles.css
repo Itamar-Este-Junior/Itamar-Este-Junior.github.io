@@ -17,9 +17,8 @@ body {
 }
 
 .xpto{
-  color: purple;
-  /* font-size: 150px; */
-}
+  color: black;
+ }
 
 .largura {
   width: 50%;
@@ -36,4 +35,7 @@ body {
 }
 .fonte{
   font-size: 70px;
+}
+.fonteparticipantes {
+  font-size: 15%
 }
