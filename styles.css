@@ -7,10 +7,14 @@ body {
 .centralizar {
   text-align: center;
 }
-
+.texto-centralizado-truque {
+	height: 100px;
+	line-height: 100px;
+  box-align: center;
+}
 .darkgrey {
   color: black;
-  }
+}
 
 .black {
   color: black;
