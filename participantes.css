@@ -9,3 +9,6 @@ body {
 .fonteparticipantes {
   font-size: 50%;
 }
+.participantesright {
+  text-align: right
+}
