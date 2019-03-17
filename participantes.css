@@ -4,11 +4,12 @@ body {
     background-size: 100%;
     }
 .participantesleft {
- text-align: left
+ text-align: left;
 } 
 .fonteparticipantes {
   font-size: 50%;
 }
 .participantesright {
-  text-align: right
-}
+ text-align: right;
+ margin-right: 5px;
+ }
