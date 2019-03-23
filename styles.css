@@ -32,6 +32,22 @@ body {
   margin-top: 0px;
   margin-right: 0px;
 }
+
+.kant {
+  width:162x; 
+  height:161px; 
+  float: right;
+  margin-top: 0px;
+  margin-right: -1500px;
+}
+.sapereaude {
+  width:100x; 
+  height:101px; 
+  float: right;
+  margin-top: 0px;
+  margin-right: -1500px;
+}
+
 .fonte{
   font-size: 80px;
 }
