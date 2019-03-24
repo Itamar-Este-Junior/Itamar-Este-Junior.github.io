@@ -1,14 +1,14 @@
 body {
   background-color : transparent;
-  }
+}
+
 .bg-fundo {
   background-image: url('images/photo.jpg');
-  background-attachment: fixed;
-  background-image: linear-Gradient(45deg);
-  background-size: 10%;
-  background-repeat: no-repeat;
-  position: center;
- }
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-color: #f0c;
+}
+
 .participantesleft {
  text-align: left;
 } 
@@ -18,4 +18,4 @@ body {
 .participantesright {
  text-align: right;
  margin-right: 5px;
- }
+}
