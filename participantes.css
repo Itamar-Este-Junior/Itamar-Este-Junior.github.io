@@ -1,5 +1,5 @@
 body {
-  background-color : transparent;
+  background-color : burlywood;
 }
 
 .bg-fundo {
@@ -8,9 +8,8 @@ body {
   background-position: bottom;
   background-color: #f0c;
 }
-
 .participantesleft {
- text-align: left;
+ text-align: left; 
 } 
 .fonteparticipantes {
   font-size: 50%;
