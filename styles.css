@@ -1,7 +1,9 @@
 body {
   background-color : #F5DEB3;
   background-image: url('images/logo.jpg');
-  background-size: 100px;
+  background-position: 50%;
+  background-size: heigth: auto;;
+  background-repeat: no-repeat;
   }
 
 .centralizar {
@@ -48,7 +50,7 @@ body {
   height:101px; 
   float: right;
   margin-top: 0px;
-  margin-right: -1500px;
+  margin-right: -2100px;
 }
 
 .fonte{
